@@ -3,7 +3,7 @@
 
 ## Submission instructions
 
-* Due date and time: September 23st (Tuesday), 11:59 pm ET
+* Due date and time: September 23st (Friday), 11:59 pm ET
 
 * Expected time commitment: 4-8 hrs
 
