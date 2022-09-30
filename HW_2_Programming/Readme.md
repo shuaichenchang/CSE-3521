@@ -2,7 +2,7 @@
 
 ## Submission instructions
 
-* Due date and time: October 12st (Tuesday), 11:59 pm ET
+* Due date and time: October 17th (Monday), 11:59 pm ET
 
 * Expected time commitment: **10 hrs** Please start early.
 
