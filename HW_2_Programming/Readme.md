@@ -4,10 +4,10 @@
 
 * Due date and time: October 12st (Tuesday), 11:59 pm ET
 
-* Expected time commitment: 10 hrs
+* Expected time commitment: **10 hrs** Please start early.
 
 * Carmen submission: 
-Submit one .zip file named HW2_programming_name_number.zip (e.g., HW2_programming_chao_209.zip), which contains
+Submit one .zip file named HW2_programming_name_number.zip (e.g., HW2_programming_chang_101.zip), which contains
   - your completed python script `DR.py` (for dimensionality reduction - Question 1)
   - your completed python script `LR.py` (for linear regression - Question 2)
   - your 6 generated results for Question 1: `MNIST_2.png`, `Swiss_Roll_2.png`, `toy_data_2.png`, `Results_MNIST_2.npz`, `Results_Swiss_Roll_2.npz`, and `Results_toy_data_2.npz`.
